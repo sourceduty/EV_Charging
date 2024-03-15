@@ -1,6 +1,6 @@
 ![Station](https://github.com/sourceduty/EV_Charging/assets/123030236/4fbed9bb-6fe7-49f5-ab4c-9205fc0c9d38)
 
-## Drive-Thru Electric Car Charging & Service Stations
+## Automated Drive-Thru Electric Car Charging & Service Stations
 
 Site selection and infrastructure planning are critical initial steps in the establishment of an electric vehicle (EV) charging station. This process involves harnessing Geographic Information System (GIS) analysis to delve into the geographical data of potential sites. Through GIS software, factors like access routes, traffic patterns, and proximity to the electrical grid are meticulously examined. Such analysis aids in optimizing the layout for maximum accessibility and operational efficiency. Concurrently, Computer-Aided Design (CAD) software is employed to craft the physical layout of the charging station. This entails detailing the number and arrangement of charging stations, delineating automated and manual charging lanes, parking areas, and integrating necessary amenities. A forward-thinking approach to infrastructure design incorporates considerations for future expansion, ensuring adaptability to evolving demands in the realm of electric mobility.
 
