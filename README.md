@@ -63,10 +63,12 @@ Revenue Model Estimates:
 
 Profit Margin Estimates:
 
+```
 Annual Revenue: $191,625 USD
 Less: Annual Operational Costs: $172,000 USD
 ------------------------------------------
 Annual Profit Before Taxes: $19,625 USD
+```
 
 Considerations and Alternatives:
 
