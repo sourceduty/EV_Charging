@@ -82,6 +82,18 @@ Considerations and Alternatives:
 
 Note: These figures are approximations and actual costs can vary based on location, technology chosen, and market conditions. Engaging with a financial advisor and conducting a detailed market analysis is recommended before making any significant investment.
 
-***
+#
 
+![Frankenstein Switch](https://github.com/user-attachments/assets/2758c9ef-868b-4d61-a233-5a5be87a7581)
+
+#
+### Related Links
+
+[EV](https://github.com/sourceduty/EV)
+<br>
+[Motorsport Manager](https://github.com/sourceduty/Motorsport_Manager)
+<br>
+[Tesla Design](https://github.com/sourceduty/Tesla_Design)
+
+***
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
